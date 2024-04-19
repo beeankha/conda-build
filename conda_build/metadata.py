@@ -595,7 +595,7 @@ FIELDS = {
         "pre-link": str,
         "post-link": str,
         "pre-unlink": str,
-        "missing_dso_whitelist": None,
+        "missing_dso_allowlist": None,
         "error_overdepending": None,
         "error_overlinking": None,
         "overlinking_ignore_patterns": [],
